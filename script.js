@@ -7,7 +7,7 @@ const greenNum = document.getElementById("greenNum");
 const blueNum = document.getElementById("blueNum");
 
 const colorPicker = document.getElementById("colorPicker");
-//holaaa
+//holaaa valeee
 const colorBox = document.getElementById("colorBox");
 const rgbValue = document.getElementById("rgbValue");
 const hexValue = document.getElementById("hexValue");
